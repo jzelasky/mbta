@@ -1,0 +1,48 @@
+.bg-black {
+    background-color: black !important;
+}
+
+.card {
+    height: 100px !important;
+    border-radius: 0px !important;
+    font-family: Helvetica, sans-serif !important;
+}
+
+.red {
+    background-color: #ff0000 !important;
+    border-color: #ff4747 !important; /*28% lighter*/
+    border-style: solid !important;
+    border-width: 5px !important;
+}
+
+.orange {
+    background-color: #ff7600 !important;
+    border-color: #ff8f2e !important; /*18% lighter*/
+    border-style: solid !important;
+    border-width: 5px !important;
+}
+
+.green {
+    background-color: #069500 !important;
+    border-color: #07b900 !important; /*10% lighter*/
+    border-style: solid !important;
+    border-width: 5px !important;
+}
+
+.blue {
+    background-color: #003da5 !important;
+    border-color: #0050d9 !important; /*15% lighter*/
+    border-style: solid !important;
+    border-width: 5px !important;
+}
+
+/* These font sizes need revision
+.small-text {
+    font-size: 24px !important;
+    font-weight: bold !important;
+}
+
+.large-text {
+    font-size: 52px !important;
+}
+*/
